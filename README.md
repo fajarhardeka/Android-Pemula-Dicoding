@@ -13,26 +13,26 @@ Fitur yang terdapat pada submission agar mendapat penilaian dengan bintang sempu
 - Mengimplementasikan fungsi Share pada halaman detail.
 
 ## Screenshot
-<img src="https://github.com/fajarhardeka/Android-Pemula-Dicoding/blob/master/Scrennshots/1.jpeg"
+<img src="https://github.com/fajarhardeka/android-pemula-dicoding/blob/master/Scrennshots/1.jpeg"
      alt="Splashscreen Activity"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://github.com/fajarhardeka/Android-Pemula-Dicoding/blob/master/Scrennshots/2.jpeg"
+     width="200" /> <img src="https://github.com/fajarhardeka/android-pemula-dicoding/blob/master/Scrennshots/2.jpeg"
      alt="Main Activity"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://github.com/fajarhardeka/Android-Pemula-Dicoding/blob/master/Scrennshots/3.jpeg"
+     width="200" /> <img src="https://github.com/fajarhardeka/android-pemula-dicoding/blob/master/Scrennshots/3.jpeg"
      alt="Detail Activity"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://github.com/fajarhardeka/Android-Pemula-Dicoding/blob/master/Scrennshots/4.jpeg"
+     width="200" /> <img src="https://github.com/fajarhardeka/android-pemula-dicoding/blob/master/Scrennshots/4.jpeg"
      alt="Share to"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://github.com/fajarhardeka/Android-Pemula-Dicoding/blob/master/Scrennshots/5.jpeg"
+     width="200" /> <img src="https://github.com/fajarhardeka/android-pemula-dicoding/blob/master/Scrennshots/5.jpeg"
      alt="About Activity"
      style="float: left; margin-right: 10px;"
      width="200" />
      
      
 ## Closing
-Bebas untuk menggunakan repository ini sebagai referensi tugas kamu! <br>https://github.com/fajarhardeka/Android-Pemula-Dicoding.git
+Bebas untuk menggunakan repository ini sebagai referensi tugas kamu! <br>https://github.com/fajarhardeka/android-pemula-dicoding.git
 
 #### Author
 Fajar Hardeka (https://instagram.com/fajarhardeka)
